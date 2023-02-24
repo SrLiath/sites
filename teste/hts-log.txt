@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 Feb 2023 18:08:16 at https://www.orionsafetystation.com/pt/suprimentos-para-navios-e-aluguel/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.orionsafetystation.com/pt/suprimentos-para-navios-e-aluguel/ -O1 "C:\My Web Sites\teste" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:08:34	Error: 	"Not Found" (404) at link https://www.orionsafetystation.com/wp-content/themes/orionstation/css/owl.video.play.png (from https://www.orionsafetystation.com/wp-content/themes/orionstation/css/libraries.css?ver=1.0.0)
+18:08:34	Error: 	"Not Found" (404) at link https://www.orionsafetystation.com/pt/suprimentos-para-navios-e-aluguel/POST (from https://connect.facebook.net/en_US/fbevents.js)
+18:08:34	Error: 	"Not Found" (404) at link https://www.orionsafetystation.com/oribili.js (from https://snap.licdn.com/li.lms-analytics/insight.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 50 links scanned, 46 files written (2715655 bytes overall) [1970589 bytes received at 109477 bytes/sec], 1148222 bytes transferred using HTTP compression in 20 files, ratio 22%, 6.5 requests per connection
+(3 errors, 0 warnings, 0 messages)
